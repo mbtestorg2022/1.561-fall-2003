@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-561-motion-based-design-fall-2003/6c9b8b2d047850c24d61bdcdcb91e373_connor_ch2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 8e2b5554-8623-f8cb-8835-5a2b2e21c9da
 resourcetype: Document
 title: connor_ch2.pdf
